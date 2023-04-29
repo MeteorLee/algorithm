@@ -3,7 +3,7 @@ package lecture.first.ch1배열;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Array1 {
+public class ArrayLecture {
     public static void main(String[] args) {
 
         List<Integer> list = new ArrayList<>();
@@ -45,7 +45,7 @@ public class Array1 {
         System.out.println("str.indexOf(\"k\") = " + str.indexOf("k"));
 
         for (int i = 0; i < dataset.length; i++) {
-            if (dataset[i].contains("M")) {
+            if (dataset[i].indexOf("M") >= 0) {
                 count++;
             }
         }
