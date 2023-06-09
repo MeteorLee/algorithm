@@ -3,7 +3,7 @@ package 문제풀이.c1자료구조.p5397키로거;
 import java.util.*;
 import java.io.*;
 
-public class Main2 {
+public class Answer {
     public static void main(String[] args) throws Exception {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
