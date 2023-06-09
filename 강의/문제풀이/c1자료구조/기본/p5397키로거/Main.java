@@ -1,4 +1,4 @@
-package 문제풀이.c1자료구조.p5397키로거;
+package 문제풀이.c1자료구조.기본.p5397키로거;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

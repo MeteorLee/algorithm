@@ -1,4 +1,4 @@
-package 문제풀이.c1자료구조.p1966프린터_큐;
+package 문제풀이.c1자료구조.기본.p1966프린터_큐;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package 문제풀이.c1자료구조.p2920음계;
+package 문제풀이.c1자료구조.기본.p2920음계;
 
 import java.util.*;
 import java.io.*;

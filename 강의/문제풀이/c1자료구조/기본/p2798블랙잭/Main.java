@@ -1,4 +1,4 @@
-package 문제풀이.c1자료구조.p2798블랙잭;
+package 문제풀이.c1자료구조.기본.p2798블랙잭;
 
 import java.util.*;
 import java.io.*;

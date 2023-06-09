@@ -1,4 +1,4 @@
-package 문제풀이.c1자료구조.p1874스택_수열;
+package 문제풀이.c1자료구조.기본.p1874스택_수열;
 
 import java.util.*;
 
