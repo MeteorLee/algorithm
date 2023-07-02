@@ -9,6 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$/백준" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/암기" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/자료구조" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/연습장" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/코테강의" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/문제풀이" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

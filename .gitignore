@@ -89,7 +89,7 @@ fabric.properties
 !.idea/codeStyles
 !.idea/runConfigurations
 
-### Java ###
+### 문제풀이 ###
 # Compiled class file
 *.class
 
@@ -99,7 +99,7 @@ fabric.properties
 # BlueJ files
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
+# Mobile Tools for 문제풀이 (J2ME)
 .mtj.tmp/
 
 # Package Files #
@@ -142,3 +142,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij+all,windows
+
+/연습장/Main.java
