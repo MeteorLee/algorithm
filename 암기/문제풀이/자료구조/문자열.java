@@ -1,4 +1,4 @@
-package 문제풀이.자료형;
+package 문제풀이.자료구조;
 
 import java.util.StringTokenizer;
 import java.util.stream.Stream;

@@ -1,4 +1,4 @@
-package 문제풀이.자료형;
+package 문제풀이.자료구조;
 
 public class 문자 {
     public static void main(String[] args) {
